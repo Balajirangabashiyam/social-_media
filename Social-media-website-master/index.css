@@ -187,6 +187,7 @@ main .container .left .profle{
 .left .sidebar .active{
     background: var(--color-light);
 
+    
 }
 
 .left.sidebar .active i,
